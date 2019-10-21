@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/amitbaz/Desktop/TMDBexample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movies.xml",
+        "source": "/Users/amitbaz/Desktop/TMDBexample/app/src/main/res/layout/activity_movies.xml"
+    },
+    {
+        "merged": "/Users/amitbaz/Desktop/TMDBexample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_movie.xml",
+        "source": "/Users/amitbaz/Desktop/TMDBexample/app/src/main/res/layout/view_movie.xml"
+    }
+]

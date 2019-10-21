@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TMDB example</string>
+    <string name="API_KEY">2e1a8c515b112efb1a38fe0a582d26a1</string>
+</resources>

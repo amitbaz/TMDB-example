@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/f7f4b9fd6c89a2847ba2bd5a08440ccb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/13fbe53a65b3f69f41c1682f98c86c32/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/69e5f354d57dab22853fb6136f40e4ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.1] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/7436007a0556dc1e07381c24817c89c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/be1fc05f47e6a8b7137912cedc72cca4/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/4c2805870be38f1ea1588d3e29896b38/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/c690d8698bfac0f6bd8ba4a1ff2bb031/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e1ce9ddb45ee6aa7d308bf7b31d4146a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bba772b476ccad722b188ac2900bcc22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/4f622d7a635468e9846a6a4f935db639/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1f0bc5023a738d9b66d74f97425c8934/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c1078897d5f083e0ed9b27f40bc6a568/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/6ee3c94d7c464ef192af1a1d0e75e53b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/28616bd44dfe2d595710bc0691a76f4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c5ba0137ef9973866d7514d4372b09fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5d03fd613dfa97bc30f46ea23e689a9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c851d2d59d0c6b91dae2c4f52d0e66e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fa1fac1628320d0c0adf5a8c7ba4e630/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5d3160c4fdd4712c150d483e1322b187/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d8a63d43bd1f98269e3651de826ff92c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b2c881913b1f5878d88a03410e48cd16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c6223ebcda0d241ae05bb88a846e70b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b0cfaa1490c741e184886d4dcabeac39/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/ec70fbfa5f5e99050e8caa30009df8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3007a089b111267b1f94a2b5cc658b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7b6acf2da220b8ae7365b509a5d529da/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a6e7e5c53d54d1d26d511559f2974ee6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/cbda15a0a7dab89305812984182fbfc1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/00e8cb875ebd742baae52d1011797d8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/3bdb7afd4f31d77f6acf4d624aa4fd9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1fbcdd342ca2dfc7db70ac62c29e0f4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2b70da9cc12ad97d22cbf64848961d30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dcc3065e378bf59bdb0025fbb57d0551/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/392b9945fbe8a0f9f8f0d804ece7dd68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/327dcceda34be6dd893b6662b75f0560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d9d925851d4275adf19bed09863bd3d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/313dfb9295ee1d460251aa91d071e0ff/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/69e5f354d57dab22853fb6136f40e4ba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/69e5f354d57dab22853fb6136f40e4ba/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/be1fc05f47e6a8b7137912cedc72cca4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/be1fc05f47e6a8b7137912cedc72cca4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/4c2805870be38f1ea1588d3e29896b38/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/4c2805870be38f1ea1588d3e29896b38/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/c690d8698bfac0f6bd8ba4a1ff2bb031/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/c690d8698bfac0f6bd8ba4a1ff2bb031/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b0cfaa1490c741e184886d4dcabeac39/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b0cfaa1490c741e184886d4dcabeac39/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7b6acf2da220b8ae7365b509a5d529da/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7b6acf2da220b8ae7365b509a5d529da/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/313dfb9295ee1d460251aa91d071e0ff/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/313dfb9295ee1d460251aa91d071e0ff/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b0cfaa1490c741e184886d4dcabeac39/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:8:9-44
+activity#com.example.tmdbexample.MoviesActivity
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:15:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/f7f4b9fd6c89a2847ba2bd5a08440ccb/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/f7f4b9fd6c89a2847ba2bd5a08440ccb/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/13fbe53a65b3f69f41c1682f98c86c32/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/13fbe53a65b3f69f41c1682f98c86c32/AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/69e5f354d57dab22853fb6136f40e4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/69e5f354d57dab22853fb6136f40e4ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.1] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/7436007a0556dc1e07381c24817c89c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.1] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/7436007a0556dc1e07381c24817c89c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/be1fc05f47e6a8b7137912cedc72cca4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/be1fc05f47e6a8b7137912cedc72cca4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/4c2805870be38f1ea1588d3e29896b38/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/4c2805870be38f1ea1588d3e29896b38/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/c690d8698bfac0f6bd8ba4a1ff2bb031/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/c690d8698bfac0f6bd8ba4a1ff2bb031/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e1ce9ddb45ee6aa7d308bf7b31d4146a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e1ce9ddb45ee6aa7d308bf7b31d4146a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bba772b476ccad722b188ac2900bcc22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bba772b476ccad722b188ac2900bcc22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/4f622d7a635468e9846a6a4f935db639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/4f622d7a635468e9846a6a4f935db639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1f0bc5023a738d9b66d74f97425c8934/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1f0bc5023a738d9b66d74f97425c8934/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c1078897d5f083e0ed9b27f40bc6a568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c1078897d5f083e0ed9b27f40bc6a568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/6ee3c94d7c464ef192af1a1d0e75e53b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/6ee3c94d7c464ef192af1a1d0e75e53b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/28616bd44dfe2d595710bc0691a76f4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/28616bd44dfe2d595710bc0691a76f4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c5ba0137ef9973866d7514d4372b09fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c5ba0137ef9973866d7514d4372b09fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5d03fd613dfa97bc30f46ea23e689a9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5d03fd613dfa97bc30f46ea23e689a9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c851d2d59d0c6b91dae2c4f52d0e66e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c851d2d59d0c6b91dae2c4f52d0e66e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fa1fac1628320d0c0adf5a8c7ba4e630/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fa1fac1628320d0c0adf5a8c7ba4e630/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5d3160c4fdd4712c150d483e1322b187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5d3160c4fdd4712c150d483e1322b187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d8a63d43bd1f98269e3651de826ff92c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d8a63d43bd1f98269e3651de826ff92c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b2c881913b1f5878d88a03410e48cd16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b2c881913b1f5878d88a03410e48cd16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c6223ebcda0d241ae05bb88a846e70b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c6223ebcda0d241ae05bb88a846e70b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b0cfaa1490c741e184886d4dcabeac39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b0cfaa1490c741e184886d4dcabeac39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/ec70fbfa5f5e99050e8caa30009df8aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/ec70fbfa5f5e99050e8caa30009df8aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3007a089b111267b1f94a2b5cc658b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3007a089b111267b1f94a2b5cc658b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7b6acf2da220b8ae7365b509a5d529da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7b6acf2da220b8ae7365b509a5d529da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a6e7e5c53d54d1d26d511559f2974ee6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a6e7e5c53d54d1d26d511559f2974ee6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/cbda15a0a7dab89305812984182fbfc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/cbda15a0a7dab89305812984182fbfc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/00e8cb875ebd742baae52d1011797d8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/00e8cb875ebd742baae52d1011797d8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/3bdb7afd4f31d77f6acf4d624aa4fd9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/3bdb7afd4f31d77f6acf4d624aa4fd9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1fbcdd342ca2dfc7db70ac62c29e0f4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1fbcdd342ca2dfc7db70ac62c29e0f4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2b70da9cc12ad97d22cbf64848961d30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2b70da9cc12ad97d22cbf64848961d30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dcc3065e378bf59bdb0025fbb57d0551/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dcc3065e378bf59bdb0025fbb57d0551/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/392b9945fbe8a0f9f8f0d804ece7dd68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/392b9945fbe8a0f9f8f0d804ece7dd68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/327dcceda34be6dd893b6662b75f0560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/327dcceda34be6dd893b6662b75f0560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d9d925851d4275adf19bed09863bd3d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d9d925851d4275adf19bed09863bd3d7/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/313dfb9295ee1d460251aa91d071e0ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/313dfb9295ee1d460251aa91d071e0ff/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitbaz/Desktop/TMDBexample/app/src/main/AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.8.0.aar/ec05a2e2cd90559560683f570fce9f87/AndroidManifest.xml:12:13-84
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/amitbaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/8a2f2aa5cb87af67511b08c02bf9913a/AndroidManifest.xml:24:13-79
